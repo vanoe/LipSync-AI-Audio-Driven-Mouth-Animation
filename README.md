@@ -123,6 +123,18 @@ Instead of relying on slow manual animation, the system uses **advanced models**
                     Your browser does not support the video tag.
                 </video>
             </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/a938d0a2-4d46-4b89-bd9a-8260c72a00f3" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/71387067-be71-4629-bded-a72150295110" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
             <td width="50%"></td>
         </tr>
     </tbody>
