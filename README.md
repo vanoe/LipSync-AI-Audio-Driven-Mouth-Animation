@@ -12,48 +12,91 @@ Instead of relying on slow manual animation, the system uses **advanced models**
 <table>
     <tbody>
         <tr>
-            <td>
+            <td width="50%">
                 <img src="./img/img-1.png" alt="img" />
             </td>
-            <td>
+            <td width="50%">
                 <img src="./img/img-2.png" alt="img" />
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="50%">
                 <img src="./img/img-3.png" alt="img" />
             </td>
-            <td>
+            <td width="50%">
                 <img src="./img/img-4.png" alt="img" />
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="50%">
                 <img src="./img/img-5.png" alt="img" />
             </td>
-            <td>
+            <td width="50%">
                 <img src="./img/img-6.png" alt="img" />
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="50%">
                 <img src="./img/img-7.png" alt="img" />
             </td>
-            <td>
+            <td width="50%">
                 <img src="./img/img-8.png" alt="img" />
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="50%">
                 <img src="./img/img-9.png" alt="img" />
             </td>
-            <td>
+            <td width="50%">
                 <img src="./img/img-10.png" alt="img" />
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="50%">
                 <img src="./img/img-11.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## 🎥 Video Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+               <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
             </td>
         </tr>
     </tbody>
