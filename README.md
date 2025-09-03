@@ -115,6 +115,19 @@ Instead of relying on slow manual animation, the system uses **advanced models**
     </tbody>
 </table>
 
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/684fcbef-91ce-481e-b9f9-2f786ae88b31" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%"></td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## 📊 Full Description
