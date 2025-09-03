@@ -1,4 +1,3 @@
-
 # 👄 Lip Sync Technology
 
 ## 🎬 Intro Description
@@ -8,9 +7,64 @@ Instead of relying on slow manual animation, the system uses **advanced models**
 
 👉 From improving animated movies to making avatars in video calls feel more lifelike, **Lip Sync bridges the gap between voice and visuals.**
 
+## Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-1.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-6.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-7.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-8.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-9.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-10.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-11.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## 📊 Full Description
+
+<details>
+  <summary>📖 Click to expand the Description</summary>
 
 ### 📌 Overview
 Lip syncing technology is a crucial aspect of **audiovisual synchronisation**, involving the precise alignment of spoken or sung words with corresponding lip movements.  
@@ -93,3 +147,5 @@ Powered by **deep learning algorithms**, it analyses audio & generates precise l
 - 📖 *Speech and Audio Signal Processing* — Ben Gold, Nelson Morgan
 - 📖 *Deep Learning* — Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - 📖 *Computer Vision: Algorithms and Applications* — Richard Szeliski  
+
+</details>
