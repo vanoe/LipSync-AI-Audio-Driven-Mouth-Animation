@@ -64,23 +64,39 @@ Synchronizes spoken audio or text-to-speech with realistic mouth movements, maki
     <tbody>
         <tr>
             <td width="50%">
-                <video src="https://github.com/user-attachments/assets/684fcbef-91ce-481e-b9f9-2f786ae88b31" controls preload>
+                <video src="https://github.com/user-attachments/assets/56be4329-fd3d-4ed7-995e-e18405f9829e" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src="https://github.com/user-attachments/assets/a938d0a2-4d46-4b89-bd9a-8260c72a00f3" controls preload>
+                <video src="https://github.com/user-attachments/assets/c27ac859-ecd7-451e-9e9e-0d41d9386f0d" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td width="50%">
+                <video src="https://github.com/user-attachments/assets/6efd6d3a-66bc-4914-8b9c-7611292c8df3" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/684fcbef-91ce-481e-b9f9-2f786ae88b31" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/a938d0a2-4d46-4b89-bd9a-8260c72a00f3" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
                 <video src="https://github.com/user-attachments/assets/71387067-be71-4629-bded-a72150295110" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
-            <td width="50%"></td>
         </tr>
     </tbody>
 </table>
